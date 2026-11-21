@@ -1,0 +1,6 @@
+{
+  "name": "Diti's Cake Creation",
+  "description": "Artisan homemade birthday, wedding, anniversary, and custom 3D-previewed bakery in Rathbari, Malda with direct WhatsApp and call ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
